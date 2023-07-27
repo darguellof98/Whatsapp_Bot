@@ -6,4 +6,6 @@ In this project you will need
 * Installed ngrok
 * Python3
 * Database engine (im using sql server on azure)
+
+* 
 I made a funciones.py file of all my functions to use inside of my flask app and just call them
